@@ -1,0 +1,718 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/7b/p4Nq1/1B6/4R3/2P3P1/5K2 w - - 0 1"]
+
+1. Rg3 Qxg3 2. Nxh6+ Kh8 3. Bd6 Qg7 4. Be5 Qxe5 5. Nf7+ Kg7 6. Nxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/6p1/4K2N/5PNq/8/8/P3R3/8 w - - 0 1"]
+
+1. Nh7+ Ke8 2. Nf6+ gxf6 3. Rc2 Kf8 4. Rc8+ Kg7 5. Rg8+ Kh7 6. Ng4 Qf7+ 7. Kd6
+Qxa2 8. Nxf6+ Kh6 9. Rg6# {[%c_effect
+d6;square;d6;type;Winner,h6;square;h6;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/6K1/qb2R3/p2P4/4PB2/8/8 w - - 0 1"]
+
+1. Bc6 Bd3+ 2. e4 Qd8 3. Rh5+ Kg8 4. Bd5+ Qxd5 5. Rh8+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3p3p/1P5B/K7/B6b/8/7r/8 w - - 0 1"]
+
+1. Bb3+ d5 2. Bxd5+ Kh8 3. Bf4 Bg3 4. Bxg3 Rh5 5. b7 Rxd5+ 6. Kb6 Rd8 7. Be5+
+Kg8 8. Bc7 Re8 9. Kc6 Kf7 10. Kd7 h5 11. Bd8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/1Nn1r3/2rp2K1/1R6/3P4/7R/8/8 w - - 0 1"]
+
+1. Rh8+ Kd7 2. Rd8+ Ke6 3. Re5+ dxe5 4. d5+ Nxd5 5. Rd6+ Rxd6 6. Nc5#
+{[%c_effect g6;square;g6;type;Winner,e6;square;e6;type;CheckmateBlack]} 1-0
+
+[Event "Deutsches Wochenschach#1062"]
+[Site "?"]
+[Date "1909.03.21"]
+[Round "?"]
+[White "Von Holzhausen=W"]
+[Black "(=4600.23b4c6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5q2/rr6/1pkP4/8/pK6/1p1Q4/1P6/8 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1909.03.21"]
+
+{Deutsches Wochenschach=12 .} 1. Qb5+ Kxd6 2. Qc5+ $1 bxc5+ (2... Kd7 3. Qxf8)
+3. Ka3 $1 Ra8 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/rr6/1pkP4/8/pK6/1p1Q4/1P6/8 w - - 0 1"]
+
+1. Qb5+ Kxd6 2. Qc5+ bxc5+ 3. Ka3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q1k/pb4p1/6P1/3p4/1p1P3p/1P6/KPR2rP1/Q7 w - - 0 1"]
+
+1. Qe1 Rf4 2. Qe5 Rf5 3. Rf2 Bc8 4. g4 hxg3 5. Qxd5 g2 6. Rf3 g1=N 7. Rf4 Qf6 8.
+Rxf5 Qa6+ 9. Kb1 Qd3+ 10. Ka1 Qa6+ 11. Qa5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/2b4r/7B/6R1/5k2/8/7K/5q2 w - - 0 1"]
+
+1. Qe3+ Kxe3+ 2. Rg3+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1QK3kq/6p1/8/6B1/8/8/8/8 w - - 0 1"]
+
+1. Kb7+ Kh7 2. Qh2+ Kg8 3. Qa2+ Kh7 4. Qf7 Qg8 5. Qh5# {[%c_effect
+b7;square;b7;type;Winner,h7;square;h7;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3N3N/1Kpp4/8/1k6/1P3p2/P1P5/8/8 w - - 0 1"]
+
+1. Nc6 dxc6 2. Ng6 f3 3. Ne5 f2 4. Nd3 f1=Q 5. Nb2 Qe2 6. a4# {[%c_effect
+b7;square;b7;type;Winner,b5;square;b5;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/1rnB2pk/2b3pP/2p1N1P1/p1pP3R/3pP2P/Kn1b2p1/5r2 w - - 0 1"]
+
+1. Rh8+ Kxh8 2. h7 Ra1+ 3. Kxa1 g1=Q+ 4. Ka2 Qb1+ 5. Kxb1 Nd1+ 6. Ka1 Bc3+ 7.
+Ka2 Rb2+ 8. Ka1 Rf2+ 9. Kb1 Be4 10. Bf5 Rb2+ 11. Ka1 Rb6+ 12. Ka2 Bd5 13. Be6
+Rb2+ 14. Ka1 Rf2+ 15. Kb1 Be4 16. Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/3R4/5p1P/p4K2/8/3p4/r1pB1pp1/8 w - - 0 1"]
+
+1. Bg5 f1=Q+ 2. Kg6 Qf5+ 3. Kxf5 g1=Q 4. Bxf6+ Kg8 5. h7+ Kf8 6. Rd8+ Kf7 7.
+h8=N# {[%c_effect f5;square;f5;type;Winner,f7;square;f7;type;CheckmateBlack]}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K1p3/8/2k1Np2/q7/4P3/8/5B2 w - - 0 1"]
+
+1. Nd3+ Kd5 2. Bg2+ Qe4 3. Nf4+ Ke5 4. Ng6+ Kd5 5. Nxe7+ Ke5 6. Ng6+ Kd5 7. Kd7
+Qxg2 8. Nf4+ Ke4 9. Nxg2 Kf3 10. Ke6 Kxg2 11. Kxf5 Kf3 12. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/8/k2p4/p7/P1p3p1/5p2/2PP4/1R6 w - - 0 1"]
+
+1. c3 f2 2. d3 g3 3. dxc4 g2 4. c5 dxc5 5. Rd1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vikovich "]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nq3k1/4Q1p1/6P1/3pp2b/2pp3p/8/1P5K/2B5 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1N4br/3pkPp1/6PP/8/pp3P2/8/P4r1P/6K1 w - - 0 1"]
+
+1. hxg7 Rg2+ 2. Kf1 Rf2+ 3. Ke1 Re2+ 4. Kd1 Rd2+ 5. Kc1 Rc2+ 6. Kb1 Rb2+ 7. Ka1
+Rxa2+ 8. Kb1 Rb2+ 9. Kc1 Rc2+ 10. Kd1 Rd2+ 11. Ke1 Re2+ 12. Kf1 Rf2+ 13. Kg1
+Rg2+ 14. Kxg2 Rxh2+ 15. Kxh2 Bxf7 16. gxf7 Kxf7 17. Nxd7 b3 18. Ne5+ Kxg7 19.
+Nc4 b2 20. Na3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2P5/1K6/3k4/8/p7/6p1/B7 w - - 0 1"]
+
+1. Bd4 g1=Q 2. Bxg1 a2 3. Bd4 Kxd4 4. c8=Q a1=Q 5. Qh8+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R1P2/1ppP1p2/3r4/8/K7/p4k2/8 w - - 0 1"]
+
+1. Kb2 a1=Q+ 2. Kxa1 Ra5+ 3. Kb2 Rb5+ 4. Kc3 Rc5+ 5. Kd4 f5 6. Ra7 Rd5+ 7. Kc3
+Rc5+ 8. Kb2 Rb5+ 9. Ka1 Re5 10. Ra2+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4B3/5N2/8/3k3N/4p3/5p2/K2p4/8 w - - 0 1"]
+
+1. Ba4 e3 2. Bd1 e2 3. Nf4+ Ke4 4. Nxe2 Ke3 5. Ng3 Kf2 6. Ne5 Ke1 7. Be2 fxe2 8.
+Nd3+ Kd1 9. Kb1 e1=Q 10. Nb2# {[%c_effect
+b1;square;b1;type;Winner,d1;square;d1;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/5p1K/3p1Q2/1p4P1/4P3/1PP5/7b/8 w - - 0 1"]
+
+1. Kh6 Be5 2. Kg7 Bh2 3. c4 bxc4 4. e5 Bxe5 5. bxc4 Bxf6+ 6. gxf6 Rh8 7. Kxh8
+Kd7 8. Kg8 Ke6 9. Kg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q5/5pR1/1p4bR/pP6/P6p/7k/4BP1P/7K w - - 0 1"]
+
+1. Rhxg6 fxg6 2. Rd7 Qxd7 3. f3 Qf5 4. Bf1# {[%c_effect
+h1;square;h1;type;Winner,h3;square;h3;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B4/5N1p/4kPr1/7p/4nP2/5K2/7P/8 w - - 0 1"]
+
+1. f5+ Kxf5 2. Nh6+ Rxh6 3. f7 Ng5+ 4. Bxg5 Kxg5 5. h4+ Kg6 6. f8=B *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1PPP4/6p1/6Pk/7p/5P1P/6PK/2q5 w - - 0 1"]
+
+1. c8=R Qb2 2. b8=B Qd4 3. d8=R *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6q1/6pk/6p1/3R4/2B5/8/6K1 w - - 0 1"]
+
+1. Rd3 Qa7+ 2. Bd4 Qd7 3. Bg7+ Qxg7 4. Rh3# {[%c_effect
+g1;square;g1;type;Winner,h6;square;h6;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2k2N2/4p1p1/4P3/P1q3P1/8/3P1PK1/1R6 w - - 0 1"]
+
+1. Rb7+ Kc6 2. Nd8+ Kd5 3. Rd7+ Kxe5 4. f4+ Qxf4 5. Rd4 Qf6 6. Nc6# {[%c_effect
+g2;square;g2;type;Winner,e5;square;e5;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3pP2B/1n2r3/8/6k1/8/R4PK1/8 w - - 0 1"]
+
+1. Re2 Rxe2 2. Be4 Rxe4 3. f3+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1p6/1r1p4/1p1P1B1P/1P6/2K5/8/8 w - - 0 1"]
+
+1. Bd3 Kf7 2. Bxb5 Rxb5 3. Kc4 Rb6 4. b5 Kf6 5. Kb4 Kg5 6. Ka5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q7/8/8/1B5b/5b1p/5N1k/4N3/6K1 w - - 0 1"]
+
+1. Bd7+ Bg4 2. Nxf4+ Kg3 3. Ne2+ Kxf3 4. Bc6+ Qxc6 5. Nd4+ Kg3 6. Ne2+ Kh3 7.
+Nf4+ Kg3 8. Ne2+ Kf3 9. Nd4+ Kf4 10. Nxc6 Kg3 11. Nd4 h3 12. Kh1 h2 13. Ne2+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/1p5p/1p6/8/8/1B6/1p6/b1k3B1 w - - 0 1"]
+
+1. Be3+ Kb1 2. Bh6 b5 3. Ke7 b4 4. Kf6 b5 5. Kg5 Kc1 6. Kf5+ Kb1 7. Kf4 Kc1 8.
+Ke4+ Kb1 9. Ke3 Kc1 10. Ke2+ Kb1 11. Bd2 h5 12. Kd1 h4 13. Bxb4 h3 14. Bd5 h2
+15. Kd2 h1=Q 16. Bxh1 Ka2 17. Bd5+ Kb1 18. Ba3 b4 19. Bb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p2PQ2/k1pN4/p7/2PK2pq/PP2P1np/8 w - - 0 1"]
+
+1. e7 Nf4+ 2. Qxf4 Qh7+ 3. Kd2 h1=Q 4. Qxa4+ Kxa4 5. e8=Q+ Ka5 6. Qa8+ Kb5 7.
+Nc7+ Qxc7 8. a4+ Kc4 9. Qg8+ Qd5+ 10. Kc2 Qxg8 11. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1R6/5p2/4P1pb/2K4p/2pB1N1k/4P3/6PP/2q5 w - - 0 1"]
+
+1. e7 Qa3+ 2. Rb4 Qa7+ 3. Kxc4 Qxe7 4. Nxg6+ fxg6 5. Bf6+ Qxf6 6. Kd5+ Kg5 7.
+h4+ Kf5 8. g4+ hxg4 9. Rf4+ Bxf4 10. e4# {[%c_effect
+d5;square;d5;type;Winner,f5;square;f5;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4R3/8/7R/1K1k4/p7/8/p5r1/8 w - - 0 1"]
+
+1. Rd8+ Ke5 2. Rh1 Rb2+ 3. Kc5 Rb1 4. Rf1 Ke6 5. Re8+ Kd7 6. Rfe1 a1=Q 7. R1e7#
+{[%c_effect c5;square;c5;type;Winner,d7;square;d7;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "K7/8/8/8/7k/2N3p1/1N5p/R7 w - - 0 1"]
+
+1. Rh1 Kh3 2. Nd3 Kg2 3. Nf4+ Kxh1 4. Nce2 g2 5. Ng3+ Kg1 6. Nh3# {[%c_effect
+a8;square;a8;type;Winner,g1;square;g1;type;CheckmateBlack]} 1-0
+
+[Event "Shakhmatny Listok#152"]
+[Site "?"]
+[Date "1926.04.25"]
+[Round "?"]
+[White "Kaminer=S"]
+[Black "(+4314.34g2h4) (v)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q4/p1p5/3r4/2N1np1p/QB5k/3P4/5PKP/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1926.04.25"]
+
+{Shakhmatny Listok=8 .} 1. Be1+ Kg5 (1... Ng4 2. f4+ Nf2 3. Bxf2+) (1... Rd4 2.
+f4+ Kg4 3. Qd1+) 2. Ne6+ Rxe6 3. Qh4+ $1 Kxh4 4. f4+ Kg4 5. h3+ Kxf4 6. Bd2# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1p6/7p/P2B4/4P1p1/2N3Pq/P6P/6K1 w - - 0 1"]
+
+1. a6 bxa6 2. Bc6+ Kd8 3. Be8 Kxe8 4. Nd5 Kd8 5. Nf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/3n4/8/1p4RR/3p3p/7K w - - 0 1"]
+
+1. Rd3 b2 2. Ra3+ Kb7 3. Rab3+ Kc6 4. Rhd3 Nc3 5. Kxh2 Kc5 6. Rbxc3+ Kb4 7. Rc7
+b1=Q 8. Rd8 d1=Q 9. Rb8+ Ka3 10. Ra7+ Qa4 11. Rxa4+ Kxa4 12. Rxb1 *
+
+[Event "1.p Zadachy i Etyudy#2500"]
+[Site "?"]
+[Date "2006.04.24"]
+[Round "?"]
+[White "Ryabinin=N"]
+[Black "(+4473.44g5f7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5b1Q/4pkp1/2n1p3/3b2K1/r4PP1/2pP2q1/2P1B3/7R w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2006.04.24"]
+
+{Zadachy i Etyudy=38 (EG#17197).} 1. Qh5+ $1 {[%c_effect
+h5;square;h5;type;GreatFind;persistent;true]} 1... Kg8 2. Qh7+ $1 {[%c_effect
+h7;square;h7;type;GreatFind;persistent;true]} (2. Kg6 $2 {[%c_effect
+g6;square;g6;type;Mistake;persistent;true]} 2... Ne5+ $1 {[%c_effect
+e5;square;e5;type;GreatFind;persistent;true]} 3. fxe5 Rxg4+ $1 {[%c_effect
+g4;square;g4;type;GreatFind;persistent;true]} 4. Bxg4 Be4+ $1 {[%c_effect
+e4;square;e4;type;GreatFind;persistent;true]} 5. dxe4 Qxg4+ $1 {[%c_effect
+g4;square;g4;type;GreatFind;persistent;true]} 6. Qxg4) 2... Kf7 3. Qg6+ Kg8 4.
+Rh8+ $1 {[%c_effect h8;square;h8;type;GreatFind;persistent;true]} 4... Kxh8 5.
+Qh5+ Kg8 6. Kg6 Ne5+ $1 {[%c_effect e5;square;e5;type;GreatFind;persistent;true]}
+7. fxe5 Rxg4+ $1 {[%c_effect g4;square;g4;type;GreatFind;persistent;true]} 8. Bxg4
+Be4+ $1 {[%c_effect e4;square;e4;type;GreatFind;persistent;true]} 9. dxe4 Qh3 $1
+{[%c_effect h3;square;h3;type;GreatFind;persistent;true]} (9... Qxg4+ 10. Qxg4)
+10. Qh8+ $1 {[%c_effect h8;square;h8;type;GreatFind;persistent;true]} (10. Bxh3 $2
+{[%c_effect h3;square;h3;type;Mistake;persistent;true]}) (10. Qxh3 $2 {[%c_effect
+h3;square;h3;type;Mistake;persistent;true]}) (10. Bxe6+ $2 {[%c_effect
+e6;square;e6;type;Mistake;persistent;true]} 10... Qxe6+) (10. Bf3 $2 {[%c_effect
+f3;square;f3;type;Mistake;persistent;true]} 10... Qg2+ 11. Qg4 Qh3) 10... Qxh8
+(10... Kxh8 {<main>} 11. Bxh3) 11. Bxe6# {[%c_effect
+g6;square;g6;type;Winner,g8;square;g8;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B4/1K4p1/1p4P1/4k3/4N3/8/3P4/r7 w - - 0 1"]
+
+1. Bf6+ gxf6 2. Ng5 fxg5 3. g7 Kf6 4. g8=Q *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Pogosyants"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4R3/8/3N1qn1/8/5k2/7K/6P1/8 w - - 0 1"]
+
+1. Re4+ Kg5 2. Re5+ Kh6 3. Rh5+ Kxh5 4. g4+ Kh6 5. g5+ {[%c_effect
+h6;square;h6;type;DrawBlack,h3;square;h3;type;DrawWhite]} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5kb1/b4pp1/8/8/4R1NB/3r4/8/4K3 w - - 0 1"]
+
+1. Be7+ Ke8 2. Bg5+ Kf8 3. Nf6 Rd8 4. Kf1 Rd1+ 5. Ke2 Rd8 6. Kf3 Rd3+ 7. Kg2 Rd8
+8. Re8+ Rxe8 9. Nd7# {[%c_effect
+g2;square;g2;type;Winner,f8;square;f8;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/pPpP2p1/P1P3P1/8/8/Qp6/1P6/K6N w - - 0 1"]
+
+1. Qf8+ Rxf8 2. Nf2 Rh8 3. Nh3 Rf8 4. Nf4 Rh8 5. Nh5 Rf8 6. Nf6 Rh8 7. d8=Q+
+Rxd8 8. Nd7+ *
+
+[Event "4.p Shakhmaty v SSSR#720"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kasparyan=G"]
+[Black "(+0611.33g8h5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1935.??.??"]
+
+{Shakhmaty v SSSR/6.} 1. Ne8 $1 {[%c_effect
+e8;square;e8;type;GreatFind;persistent;true]} (1. Nf5 $2 {[%c_effect
+f5;square;f5;type;Mistake;persistent;true]} 1... Kg4 $1 {[%c_effect
+g4;square;g4;type;GreatFind;persistent;true]} 2. Ne3+ Kf3 3. Nxf1 Rf2) 1... Kg6 $1
+{[%c_effect g6;square;g6;type;GreatFind;persistent;true]} (1... f5 2. Bxf5 gxf4
+3. Ng7#) (1... Rxf4 2. Ng7+ Kg6 3. h5+ Rxh5 4. Bf5+ Rxf5 5. g4) 2. h5+ $1
+{[%c_effect h5;square;h5;type;GreatFind;persistent;true]} (2. f5+ $2 {[%c_effect
+f5;square;f5;type;Mistake;persistent;true]} 2... Rxf5 3. h5+ Kxh5) 2... Rxh5
+(2... Kxh5 3. Ng7+ Kg6 4. Bf5#) 3. f5+ $1 {[%c_effect
+f5;square;f5;type;GreatFind;persistent;true]} 3... Rxf5 4. g4 $1 {[%c_effect
+g4;square;g4;type;GreatFind;persistent;true]} 4... Re5 5. Bf5+ $1 {[%c_effect
+f5;square;f5;type;GreatFind;persistent;true]} (5. Ng7 $2 {[%c_effect
+g7;square;g7;type;Mistake;persistent;true]} 5... f5) 5... Rxf5 6. Ng7 $1
+{[%c_effect g7;square;g7;type;GreatFind;persistent;true]} 6... Rf1 (6... Rh1
+{<main>} 7. gxf5#) 7. gxh5# {[%c_effect
+g8;square;g8;type;Winner,g6;square;g6;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Wotawa"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2pp1K1/p3k3/4B2R/4P3/2P4p/1p5P/8 w - - 0 1"]
+
+1. Bd6 exd6 2. Rh8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/3kp3/3P4/1R1P4/4R3/3p4/4r3 w - - 0 1"]
+
+1. Re5 Rxe5 2. Rb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1Pp4q/KpP5/1P6/8/8/8/6RR w - - 0 1"]
+
+1. Rh6 Qg7 2. Rd6 Qf8 3. Rg7 Qh8 4. Rd3 Qf8 5. Rxc7 *
+
+[Event "2.p Schakend Nederland"]
+[Site "?"]
+[Date "1996"]
+[Round "?"]
+[White "Pervakov=O"]
+[Black "(+0340.54c8e8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2K1k2r/5p2/5P1p/P2p4/3PB1p1/3P4/4b2P/8 w k - 0 1"]
+[PlyCount "17"]
+[EventDate "1996"]
+
+1. Bh7 $1 {[%c_effect h7;square;h7;type;GreatFind;persistent;true]} (1. Bf5 $2
+{[%c_effect f5;square;f5;type;Mistake;persistent;true]} 1... O-O+ 2. Kb7 h5 3.
+a6 h4 4. a7 g3 $19) (1. Bxd5 $2 {[%c_effect
+d5;square;d5;type;Mistake;persistent;true]} 1... O-O+ 2. Kb7 Bxd3 $19) 1... g3 $1
+{[%c_effect g3;square;g3;type;GreatFind;persistent;true] Черные задумали хитрый
+план: их слон начинает охоту за белым визави.} ({Взятие слона лишает черных
+спасительной рокировки:} 1... Rxh7 2. a6 h5 3. a7 Rh6 4. a8=Q $18) ({А попытка
+откупиться слоном быстро проигрывает:} 1... Bxd3 2. Bxd3 O-O+ 3. Kb7 $18) 2. hxg3
+(2. a6 $2 {[%c_effect a6;square;a6;type;Mistake;persistent;true]} 2... Bxd3 $1
+{[%c_effect d3;square;d3;type;GreatFind;persistent;true]} 3. Bxd3 (3. a7 Bxh7 4.
+a8=Q O-O+) 3... O-O+ 4. Kb7 gxh2 $19) 2... Bh5 $1 {[%c_effect
+h5;square;h5;type;GreatFind;persistent;true]} 3. a6 $1 {[%c_effect
+a6;square;a6;type;GreatFind;persistent;true]} ({Рано} 3. Bg8 $2 {[%c_effect
+g8;square;g8;type;Mistake;persistent;true]} 3... Kf8 $1 {[%c_effect
+f8;square;f8;type;GreatFind;persistent;true]} 4. Bh7 Rxh7 5. a6 Rh8 6. a7 Kg8 7.
+a8=Q Kh7+ $19) 3... Bg6 4. Bg8 $1 {[%c_effect
+g8;square;g8;type;GreatFind;persistent;true] Слон грудью бросается на
+амбразуру $1} (4. a7 $2 {[%c_effect a7;square;a7;type;Mistake;persistent;true]} 4...
+Bxh7 5. a8=Q O-O+ $1 $19 {[%c_effect g8;square;g8;type;GreatFind;persistent;true]})
+4... Kf8 $1 {[%c_effect f8;square;f8;type;GreatFind;persistent;true] К борьбе
+против героя подключается черный король, но следует} 5. Bh7 $1 {[%c_effect
+h7;square;h7;type;GreatFind;persistent;true] Выясняется, что нет смысла в
+возврате короля - 5.Ke8 - рокировка пропала $1 Остаeтся принять жертву.} 5... Bxh7
+6. a7 ({или сначала} 6. Kc7 Bf5 7. a7) 6... Bf5+ 7. Kc7 $1 {[%c_effect
+c7;square;c7;type;GreatFind;persistent;true]} (7. Kb7 $2 {[%c_effect
+b7;square;b7;type;Mistake;persistent;true]} 7... Kg8 8. a8=Q+ Kh7 9. Qa5 Be6 $1
+{[%c_effect e6;square;e6;type;GreatFind;persistent;true] черные успели построить
+неприступную крепость}) 7... Kg8 8. a8=Q+ Kh7 9. Qxd5 {[%c_effect
+c7;square;c7;type;Winner] , и крепость не состоялась.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4B3/8/6N1/5p2/1r4p1/6pk/7b/4K2Q w - - 0 1"]
+[WhiteUrl ""]
+[WhiteCountry ""]
+[WhiteTitle ""]
+[BlackUrl ""]
+[BlackCountry ""]
+[BlackTitle ""]
+
+{https://www.reddit.com/r/chess/s/wweatP60ZV} 1. Bc6 Rb1+ 2. Ke2 Rxh1 3. Bg2+
+Kxg2 4. Nf4+ Kg1 5. Ke1 g2 6. Ne2# {[%c_effect
+e1;square;e1;type;Winner,g1;square;g1;type;CheckmateBlack]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1p6/pK1p4/P1pP4/2Qb4/8/7P/8 w - - 0 1"]
+
+{https://www.reddit.com/r/chess/comments/1ffbdza/judit_polgars_remarkable_study}
+1. h3 $1 {[%c_effect h3;square;h3;type;GreatFind;persistent;true]} 1... Bf6 2.
+Qh4 $1 {[%c_effect h4;square;h4;type;GreatFind;persistent;true]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4q3/6p1/7k/p4B2/2R3RK/p5P1/8 w - - 0 1"]
+
+{https://twitter.com/chesss/status/1847311445718913185} 1. Rg5+ Qxg5 2. Rc5 *

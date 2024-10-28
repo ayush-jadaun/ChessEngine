@@ -25,6 +25,16 @@ def load_games(file_paths):
             raise FileNotFoundError(f"PGN file not found at {file_path}")
     return games
 
+# Function to flatten the piece_map dictionary into a feature vector for model compatibility
+def flatten_piece_map(piece_map):
+    flattened = [0] * 64 * 6 * 2  # 64 squares, 6 pieces, 2 colors
+    for square, piece in piece_map.items():
+        piece_type_index = (piece.piece_type - 1) * 2
+        if piece.color == chess.BLACK:
+            piece_type_index += 1
+        flattened[square * 12 + piece_type_index] = 1
+    return flattened
+
 # Function to extract features and labels from games using Stockfish
 def extract_features_and_labels(games, engine_path):
     if not os.path.exists(engine_path):
@@ -47,21 +57,11 @@ def extract_features_and_labels(games, engine_path):
     print(f'Extracted {len(data)} features and labels using Stockfish.')
     return data, labels
 
-# Flatten the piece_map dictionary into a feature vector for model compatibility
-def flatten_piece_map(piece_map):
-    flattened = [0] * 64 * 6 * 2  # 64 squares, 6 pieces, 2 colors
-    for square, piece in piece_map.items():
-        piece_type_index = (piece.piece_type - 1) * 2
-        if piece.color == chess.BLACK:
-            piece_type_index += 1
-        flattened[square * 12 + piece_type_index] = 1
-    return flattened
-
 # Load the games from the specified PGN files
 file_paths = [
-    'C:\\Users\\Ayush\\Desktop\\Bobby Fischer - My 60 Memorable Games.pgn',
-    'C:\\Users\\Ayush\\Desktop\\The Most Instructive Chess Games.pgn',
-    'C:\\Users\\Ayush\\Desktop\\The Best Chess Studies.pgn'
+    'C:\\Users\\Ayush\\Desktop\\Chess engime\\pgn\\Bobby Fischer - My 60 Memorable Games.pgn',
+    'C:\\Users\\Ayush\\Desktop\\Chess engime\\pgn\\The Most Instructive Chess Games.pgn',
+    'C:\\Users\\Ayush\\Desktop\\Chess engime\\pgn\\The Best Chess Studies.pgn'
 ]
 
 games = load_games(file_paths)
@@ -70,7 +70,7 @@ games = load_games(file_paths)
 engine_path = 'C:\\Users\\Ayush\\Desktop\\Chess engime\\stockfish\\stockfish-windows-x86-64-avx2\\stockfish\\stockfish-windows-x86-64-avx2.exe'
 data, labels = extract_features_and_labels(games, engine_path)
 
-# Split the data
+# Split the data into training and testing sets
 print("Splitting data into training and testing sets...")
 X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2, random_state=42)
 
@@ -86,8 +86,9 @@ y_pred = model.predict(X_test)
 print(f'RMSE: {mean_squared_error(y_test, y_pred, squared=False)}')
 
 # Save the model
-print("Saving the model...")
-joblib.dump(model, 'chess_engine_model.pkl')
+model_path = 'C:\\Users\\Ayush\\Desktop\\Chess engime\\chess_engine_model.pkl'
+print(f"Saving the model to {model_path}...")
+joblib.dump(model, model_path)
 print("Model saved.")
 
 # Function to predict advantage
