@@ -14,6 +14,7 @@ A modern chess game implementation with real-time AI-powered position evaluation
 - Chess coordinates (a-h, 1-8)
 - Reset game functionality (R key)
 - Cancel selection (ESC key)
+- Pawn promotion with visual piece selection dialog
 
 ### User Interface
 
@@ -24,6 +25,7 @@ A modern chess game implementation with real-time AI-powered position evaluation
 - Shadow effects and visual feedback
 - Alternating move history background
 - Board coordinates for easy move reference
+- Centered promotion dialog with piece selection
 
 ### AI Integration
 
@@ -128,18 +130,26 @@ chess-game/
    - Click on a highlighted square to move
    - Press ESC to deselect a piece
 
-3. **Game Controls**:
+3. **Pawn Promotion**:
+
+   - When a pawn reaches the opposite end of the board (8th rank for White, 1st rank for Black)
+   - A promotion dialog will appear in the center of the screen
+   - Click on the piece you want to promote to (Queen, Rook, Bishop, or Knight)
+   - Press ESC to cancel the promotion and choose a different move
+
+4. **Game Controls**:
 
    - R: Reset the game
-   - ESC: Cancel piece selection
+   - ESC: Cancel piece selection or promotion dialog
    - Mouse: Select and move pieces
 
-4. **Game Features**:
+5. **Game Features**:
    - The side panel shows the current player and advantage
    - Move history displays the last 10 moves
    - The advantage bar shows the current position evaluation
    - Chess coordinates help identify squares
    - Hover effects show which square you're pointing at
+   - Visual feedback for piece selection and legal moves
 
 ## Model Training
 
@@ -159,6 +169,8 @@ The chess engine uses a machine learning model trained on:
 - [ ] Implement undo/redo
 - [ ] Add game statistics
 - [ ] Create tutorial mode
+- [ ] Add keyboard shortcuts for moves
+- [ ] Implement move validation hints
 
 ## Author
 
